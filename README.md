@@ -27,9 +27,4 @@ This project uses the **[SMS Spam Collection Dataset](https://www.kaggle.com/dat
 
 ---
 
-## 🛠️ Installation & Setup
 
-### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/yourusername/email-spam-classifier.git
-cd email-spam-classifier
