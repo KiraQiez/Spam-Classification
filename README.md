@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 A machine learning project that classifies messages as **spam** or **ham** using **Naive Bayes** and **Logistic Regression**.  
-Part of my **Data Science Learning Roadmap – Month 3–4**.
+
 
 ---
 
@@ -15,7 +15,6 @@ Part of my **Data Science Learning Roadmap – Month 3–4**.
 - **Machine Learning Models** – Naive Bayes & Logistic Regression
 - **Evaluation Metrics** – Accuracy, precision, recall, F1-score
 - **Interactive UI** – Optional Streamlit app for real-time predictions
-- **Portfolio-Ready** – Well-documented and reproducible
 
 ---
 
