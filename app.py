@@ -1,5 +1,3 @@
-# app.py
-
 import streamlit as st
 import joblib
 
@@ -11,7 +9,7 @@ import joblib
 def load_models():
     models = {}
 
-    # change paths if your structure is different
+    
     models["Logistic Regression"] = joblib.load("models/logistic_regression_spam.h5")
     models["Naive Bayes"] = joblib.load("models/naive_bayes_spam.h5")
     models["Linear SVM"] = joblib.load("models/linear_svm_spam.h5")
@@ -43,7 +41,7 @@ def main():
     model_name = st.sidebar.selectbox(
         "Choose model",
         options=list(models.keys()),
-        index=2,  # default to Linear SVM (often best)
+        index=2,  # default to Linear SVM 
     )
 
     model = models[model_name]
