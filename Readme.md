@@ -63,13 +63,13 @@ All models use a **TF-IDF vectorizer + classifier** architecture:
 
 Below are sample images of the app interface:
 
-### 🔹 Example 1 — Homepage  
+### 🔹 Example 1 
 ![Example 1](images/example1.png)
 
-### 🔹 Example 2 — Model Selector  
+### 🔹 Example 2 
 ![Example 2](images/example2.png)
 
-### 🔹 Example 3 — Prediction Result  
+### 🔹 Example 3  
 ![Example 3](images/example3.png)
 
 
